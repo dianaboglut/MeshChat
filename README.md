@@ -46,5 +46,9 @@ To get started with ESP-Mesh, follow these steps:
 - Select your board and upload the firmware to each ESP32 node
 - Once deployed, the devices will automatically start discovering and handshaking with each other to form the mesh network.
 
+# Screenshots
+## `help` command:
+<img width="1489" height="790" alt="image" src="https://github.com/user-attachments/assets/885fdd87-b1e7-4af3-9d8a-60a07ed047af" />
+
 # 👋 Thanks for checking out my project!
 I had a blast building ESP-Mesh and learned a ton about mesh networks and embedded systems.
