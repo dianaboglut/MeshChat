@@ -28,3 +28,23 @@ This approach is perfect for isolated areas, distributed IoT systems, and emerge
 - Hardware: ESP32
 - Protocol: ESP-NOW (direct device-to-device communication)
 - Custom handshake & routing logic for dynamic mesh building
+
+# 🚀 Getting Started
+To get started with ESP-Mesh, follow these steps:
+
+1️⃣ Set up ESP32 Environment
+- Install Arduino IDE or PlatformIO
+- Add ESP32 board support in your IDE
+- Connect your ESP32 boards via USB
+
+2️⃣ Install Required Libraries
+- Install the ESP-NOW library (usually bundled with ESP32 SDK)
+- Install any other libraries required by the code (check #include statements)
+
+3️⃣ Build and Upload
+- Open the project in Arduino IDE or PlatformIO
+- Select your board and upload the firmware to each ESP32 node
+- Once deployed, the devices will automatically start discovering and handshaking with each other to form the mesh network.
+
+# 👋 Thanks for checking out my project!
+I had a blast building ESP-Mesh and learned a ton about mesh networks and embedded systems.
