@@ -17,3 +17,14 @@ This approach is perfect for isolated areas, distributed IoT systems, and emerge
   - ADD, DEBUG, HELP
 - Isolation Detection: Nodes “scream their name” when alone to find others
 - Debug Mode: Easier testing with extra log information
+
+# 💡 Potential Applications
+- Emergency communications in disaster zones
+- Hiking or festival networks
+- Distributed IoT sensor coordination
+- Industrial environments with no centralized infrastructure
+
+# 🛠️ Technologies
+- Hardware: ESP32
+- Protocol: ESP-NOW (direct device-to-device communication)
+- Custom handshake & routing logic for dynamic mesh building
